@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Mobile Application Development**
 
-- 🌱 I’m currently learning **Flutter, Hive, Firebase, RestAPI**
-
 - 📫 How to reach me **kcsreejith17120@gmail.com**
 
 - ⚡ Fun fact **I Love to Draw**
